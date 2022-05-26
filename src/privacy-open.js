@@ -29,8 +29,13 @@ function OpenPrivacy() {
             <ul></ul>
           </div>
           <div>
-            Notre application ne collecte et n'enregistre aucunes informations.
-            Elle ne remonte aucunes données du téléphone.
+            Notre application ne sychronise que les informations suivante: 
+                - votre adresse E-mail que vous decider d'entrer pour la création de votre compte
+                - votre pin de connection
+                la totalité de ses informations son encrypter et envoyer sur nos serveurs.
+                Vous pouvez nous envoyer un mail à dev@archeos.bj pour demander la suppression ou 
+                le teléchargement de toutes données vous concernant. 
+                Le mail devra être envoyer depuis l'adresse concernée et préciser la requête. .
           </div>
           <div>
             <br />
