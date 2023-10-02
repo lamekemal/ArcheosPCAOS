@@ -5,7 +5,7 @@
 
 <div class="text-column">
 	<h1>Privacy Policy for Archeos (Apps and Website)</h1>
-	<pre>Please contact me at handill@pm.me</pre>
+	<pre>Please contact me at support@web3-tech.space </pre>
 	<p>
 		At Archeos Apps, accessible from archeos.bj, one of our main priorities is the privacy of our
 		visitors. This Privacy Policy document contains types of information that is collected and
